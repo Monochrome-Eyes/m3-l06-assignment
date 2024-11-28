@@ -1,0 +1,15 @@
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\bin\Debug\net8.0\l06-assignment.exe
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\bin\Debug\net8.0\l06-assignment.deps.json
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\bin\Debug\net8.0\l06-assignment.runtimeconfig.json
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\bin\Debug\net8.0\l06-assignment.dll
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\bin\Debug\net8.0\l06-assignment.pdb
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\l06-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\l06-assignment.AssemblyInfoInputs.cache
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\l06-assignment.AssemblyInfo.cs
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\l06-assignment.csproj.CoreCompileInputs.cache
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\l06-assignment.sourcelink.json
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\l06-assignment.dll
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\refint\l06-assignment.dll
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\l06-assignment.pdb
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\l06-assignment.genruntimeconfig.cache
+C:\Users\sshiv\Bethel_Tech_Lessons\4 csharp-course\l06\l06-assignment\obj\Debug\net8.0\ref\l06-assignment.dll
