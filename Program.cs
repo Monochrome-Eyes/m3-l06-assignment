@@ -26,7 +26,10 @@ string CreateTask() {
     do {
         Console.Write("Enter a task: ");
         task = Console.ReadLine() ?? "";
-        if (task != "") return task;
+        if (task != "") { 
+            Console.WriteLine($"\"{task}\" added successfully!");
+            return task;
+        }
     } while (true);
 }
 
@@ -35,4 +38,3 @@ void DisplayTasks(List<string> list) {
         Console.WriteLine($"{i + 1}. {list[i]}");
     }
 }
-
