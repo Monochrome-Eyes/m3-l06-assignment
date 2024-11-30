@@ -30,4 +30,9 @@ string CreateTask() {
     } while (true);
 }
 
-Console.WriteLine(CreateTask());
+void DisplayTasks(List<string> list) {
+    for (int i = 0; i < list.Count; ++i) {
+        Console.WriteLine($"{i + 1}. {list[i]}");
+    }
+}
+
