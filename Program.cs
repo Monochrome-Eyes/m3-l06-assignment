@@ -1,6 +1,4 @@
-﻿using System.Data;
-
-int ReadPositiveInt(string message = "Enter a number: ") {
+﻿int ReadPositiveInt(string message = "Enter a number: ") {
     Console.Write(message);
     do {
         string user_input = Console.ReadLine() ?? "";
@@ -23,3 +21,13 @@ void DisplayOptions() {
     Console.WriteLine("4. Quit");
 }
 
+string CreateTask() {
+    string task;
+    do {
+        Console.Write("Enter a task: ");
+        task = Console.ReadLine() ?? "";
+        if (task != "") return task;
+    } while (true);
+}
+
+Console.WriteLine(CreateTask());
